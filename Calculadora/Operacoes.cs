@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Calculadora
 {
@@ -36,8 +32,10 @@ namespace Calculadora
             Console.WriteLine("Calculo Divisão: {0} / {1} = {2}", numero1, numero2, resultado);
         }
 
-
-        //Fazer as outras 3 operações
+//Pensar numa solução para realizar uma operação com mais de 2 numeros
+//Exemplo 2+3+9= ou 2+6+3+2 e assim vai
+//Informe x numero que deseja somar, depois informe quais os numeros e some todos e apresente resultado
 
     }
 }
+
